@@ -1,4 +1,5 @@
-//console.log('nikita lox 123123123123123');
+//myCode
+//nasralNastol
 
 class Model {
     tasks;
